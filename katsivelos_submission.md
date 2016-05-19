@@ -20,7 +20,7 @@ What is hidden in both these pieces - and many other pieces on the topics of dig
 
 
 Draft Advanced Reading Paper
-Digital Identity in Context
+Digital Identity in Context:
 - If someone presents a valid Digital Identity and there is no place to use it, does it have value?
 - Understanding Digital Identity (the credential and the related services) operate in a multisided market.
 - Digital Identity should allows a person to operate in several spheres:
