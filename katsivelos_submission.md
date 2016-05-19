@@ -1,6 +1,10 @@
-# ID2020Summit
-## Content for advanced reading and other such things for http://id2020summit.org/ 
+# [ID2020 Summit](http://id2020summit.org/) 
+## Advanced Reading Submission 
 
+
+
+### Commercial Adoption & Universal Reach
+### Nick Katsivelos nick@katsivelos.com 
 
 
 Note: This paper is heavily revised in lightof the pubication of Phil Windley's excellent post on 
@@ -10,14 +14,26 @@ Here is Phil's Summary:
 
 Phil's piece echoes one I had written a few years back on companies apparent love afair with technical approaches to "personalization" and some of the drawbacks companies face when collecting to much, or highly valued personal data titled [Algorithmic Attention: The new face of personal data and why brands need to catalyze the creation of Personal APIs](http://katsivelos.com/2015/10/04/algorithmic-attention/)
 
-What is hidden in both these pieces - and many other pieces on the topics of digital identity and personal data - is that the commercial side of the multisided platform that is identity is not at the table, and most don't even know there is something to discuss.
+What is hidden in both these pieces - and many other pieces on the topics of digital identity and personal data - is that the commercial side of the multisided platform that is identity is not at the table, and most don't even know there is something to discuss. We both call for some brave companies to step forward and add credibility to identity platforms that will put the individual in charge. 
+
+The major issue to address is how to spur adoption and acceptance of this new identity platform, universally. Commercial adoption is critical. Without adoption by the current giants of identity (i.e. Google, Facebook, etc.) - that is they they accept as a Relying Party, this new identity and treat it no differently than their own (no degradation of services). It is in this way we can assure that users will have access to resources on the internet and beyond, regardless of their current national citizenship or brand affiliation. Gaining this adoption will not be easy. Many companies are simply unaware of the issue. Many have built business models that are predicated on control of the users identity. Finally, the value proposition for adoption is simply not compelling enough. 
+
+In considering the Value Proposition for this identity system, another issue arises. Why focus on building an identity system with the sole focus on those "at risk"?  While the need for this type of service is certainly greatly needed for those in refugee situations, an identity service for only those who are in trouble is efectively giving out passports to the land of misfit toys - one that would carry a stigma - or a badge of honor - but one that sets the holder in a particular context in all transactions.  For this reason it seems urgent that the program be aimed not at "creation of a legal digital identity for all individuals at risk." but creation of a legal digital identity for all" - a universal platform - open to all.
+
+Goals:
+1. Working with companies to determine value propositions that will drive commercial adoption.
+2. Working with leading identity providers to garner their support and willingness to accept this identity as an RP. 
+3. Retaining the focus on the goal of addressing the needs of those at risk, insure that the platform is open to all from day one.
+
+
+ 
 
 
 
 
 
 
-
+---- Below are earlier drafts and thoughts that have not been fully incorporated in the revision ---
 
 Draft Advanced Reading Paper
 Digital Identity in Context:
@@ -32,7 +48,7 @@ Digital Identity in Context:
 - With out commercial adoption, those in psession of a Digital Identity, may have an identity in name only. 
 	- Those with a tool to assert legal standing, but no means to pay for goods or services will be, at the end of the day, cold and hungry.
 - Therefore, any Digital Identity system needs present a compelling value proposition to the broader commercial economy. For this to happen, the 
-identity system needs to be open to all people, and offer a value proposition to them as well. \\
+identity system needs to be open to all people, and offer a value proposition to them as well. 
 	
 
 
