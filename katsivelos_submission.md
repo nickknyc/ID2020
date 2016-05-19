@@ -4,7 +4,7 @@
 
 
 ### Commercial Adoption & Universal Reach
-### Nick Katsivelos nick@katsivelos.com 
+##### Nick Katsivelos nick@katsivelos.com 
 
 
 Note: This paper is heavily revised in lightof the pubication of Phil Windley's excellent post on 
@@ -21,9 +21,16 @@ The major issue to address is how to spur adoption and acceptance of this new id
 In considering the Value Proposition for this identity system, another issue arises. Why focus on building an identity system with the sole focus on those "at risk"?  While the need for this type of service is certainly greatly needed for those in refugee situations, an identity service for only those who are in trouble is efectively giving out passports to the land of misfit toys - one that would carry a stigma - or a badge of honor - but one that sets the holder in a particular context in all transactions.  For this reason it seems urgent that the program be aimed not at "creation of a legal digital identity for all individuals at risk." but creation of a legal digital identity for all" - a universal platform - open to all.
 
 Goals:
+
 1. Working with companies to determine value propositions that will drive commercial adoption.
+
 2. Working with leading identity providers to garner their support and willingness to accept this identity as an RP. 
+
 3. Retaining the focus on the goal of addressing the needs of those at risk, insure that the platform is open to all from day one.
+
+
+
+
 
 
  
