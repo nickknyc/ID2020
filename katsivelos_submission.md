@@ -1,14 +1,14 @@
 # ID2020Summit
-Content for advanced reading and other such things for http://id2020summit.org/ 
+## Content for advanced reading and other such things for http://id2020summit.org/ 
 
 
 
 Note: This paper is heavily revised in lightof the pubication of Phil Windley's excellent post on 
-"Why Companies Need Self-Sovereign Idenity" http://www.windley.com/archives/2016/05/why_companies_need_self-sovereign_identity.shtml
-Here is Phil's Summary: All the talk of self-sovereign identity can come off sounding anti-company. The truth is that companies and other organizations stand to gain as much from a self-sovereign identity system as individuals. 
-This post explains how self-sovereign identity systems solve problems for companies, using healthcare as example.
+["Why Companies Need Self-Sovereign Idenity"] (http://www.windley.com/archives/2016/05/why_companies_need_self-sovereign_identity.shtml)
+Here is Phil's Summary: 
+> All the talk of self-sovereign identity can come off sounding anti-company. The truth is that companies and other organizations stand to gain as much from a self-sovereign identity system as individuals. This post explains how self-sovereign identity systems solve problems for companies, using healthcare as example.
 
-Phil's piece echoes one I had written a few years back on companies apparent love afair with technical approaches to "personalization" and some of the drawbacks companies face when collecting to much, or highly valued personal data.
+Phil's piece echoes one I had written a few years back on companies apparent love afair with technical approaches to "personalization" and some of the drawbacks companies face when collecting to much, or highly valued personal data titled [Algorithmic Attention: The new face of personal data and why brands need to catalyze the creation of Personal APIs](http://katsivelos.com/2015/10/04/algorithmic-attention/)
 
 What is hidden in both these pieces - and many other pieces on the topics of digital identity and personal data - is that the commercial side of the multisided platform that is identity is not at the table, and most don't even know there is something to discuss.
 
